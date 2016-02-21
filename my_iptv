@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kênh hay xem", [COLOR lime][B]Kênh hay xem[/B][/COLOR]
+http://i.imgur.com/lZOZWTa.png
+#EXTINF:-1,SCTV8 – Thông Tin Kinh Tế Thị Trường (select)
+http://112.197.2.135:1935/colive/C040_SD_3/chunklist.m3u8
+#EXTINF:-1,VTVcab8 - Kênh BIBI
+http://hlscache.fptplay.net.vn/vtvlive/bibi_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,SCTVHD - thiếu nhi (select)
+http://112.197.2.135:1935/colive/C016_HD_2/chunklist.m3u8
+#EXTINF:-1,mytv-cartoon network
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-cartoon.m3u8
+#EXTINF:-1,SCTVHD - phim nước ngoài ðặc sắc (select)
+http://112.197.2.135:1935/colive/C015_HD_2/chunklist.m3u8
+#EXTINF:-1,mytv-hbo
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-hbo.m3u8
+#EXTINF:-1,mytv-cinemax
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-cinemax.m3u8
+#EXTINF:-1,mytv-starmovies
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-starmovies.m3u8
+#EXTINF:-1,mytv-discovery
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-discovery.m3u8
+#EXTINF:-1,VTV1HD
+rtmp://123.30.238.125/live/_definst_/vtv1-high
+#EXTINF:-1,VTV2HD
+rtmp://123.30.238.125/live/_definst_/vtv2-high
+#EXTINF:-1,VTV3HD
+rtmp://123.30.238.125/live/_definst_/vtv3-high
+#EXTINF:-1,VTV6HD
+rtmp://123.30.238.125/live/_definst_/vtv6-high
+#EXTINF:-1,VTV7HD
+rtmp://123.30.238.125/live/_definst_/vtv7-high
+
+#EXTINF:-1,HBO-HD
+http://112.197.2.135:1935/mlive/C004_HD_4/playlist.m3u8?us=c8bd8023854087cbd61aa0a5e3de41d0ee4dcfaa4ff4f530923b7feca955336c8220d7e5b2993801635dfa661d13ff07-1072302
+#EXTINF:-1,Star Movies-HD
+http://112.197.2.135:1935/mlive/C001_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,Cinemax-SD
+http://112.197.2.135:1935/mlive/C026_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+
+#EXTINF:-1 group-title="Kênh hay xem", [COLOR lime][B]Kênh VTVCab[/B][/COLOR]
+http://i.imgur.com/lZOZWTa.png
+#EXTINF:-1,ThethaoTV
+http://hlscache.fptplay.net.vn/vtvlive/thethaotvsd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,BongdaTV
+http://hlscache.fptplay.net.vn/vtvlive/bongdatvsd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab1 - Giải trí TV
+http://hlscache.fptplay.net.vn/vtvlive/giaitritv_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab2 - phim Việt
+http://hlscache.fptplay.net.vn/vtvlive/phimviet_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab4 - Văn hóa
+http://hlscache.fptplay.net.vn/vtvlive/kenh17_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab5 - ECHANNEL
+http://hlscache.fptplay.net.vn/vtvlive/echanel_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab6 - hay TV
+http://hlscache.fptplay.net.vn/vtvlive/haytv_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab7 - D Dramas
+http://hlscache.fptplay.net.vn/vtvlive/ddramas_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab8 - Bi Bi
+http://hlscache.fptplay.net.vn/vtvlive/bibi_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab9 - Info TV
+http://hlscache.fptplay.net.vn/vtvlive/infotv_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab10 - O2 TV
+http://hlscache.fptplay.net.vn/vtvlive/o2tv_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab12 - Style TV
+http://hlscache.fptplay.net.vn/vtvlive/styletv_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab15 - M Channel
+http://hlscache.fptplay.net.vn/vtvlive/investtv_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,VTVcab17 - YEAH 1 TV
+http://hlscache.fptplay.net.vn/vtvlive/yeah1tv_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="Kênh SCTV", [COLOR lime][B]Kênh SCTV[/B][/COLOR]
+http://i.imgur.com/lZOZWTa.png
+#EXTINF: 0,SCTVHD - du lich & khám phá 
+http://112.197.2.135:1935/colive/C007_HD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - phim việt 
+http://112.197.2.135:1935/colive/C009_HD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - phim châu á
+http://112.197.2.135:1935/colive/C010_HD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - phim tổng hợp 
+http://112.197.2.135:1935/colive/C013_HD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - phim nước ngoài ðặc sắc
+http://112.197.2.135:1935/colive/C015_HD_2/chunklist.m3u8
+#EXTINF: 0,SCTVHD - STAR MOVIES 
+http://112.197.2.135:1935/colive/C001_HD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - giải trí tổng hợp
+http://112.197.2.135:1935/colive/C014_HD_2/chunklist.m3u8
+#EXTINF: 0,SCTVHD - thiếu nhi
+http://112.197.2.135:1935/colive/C016_HD_2/chunklist.m3u8
+#EXTINF: 0,SCTVHD - hài 
+http://112.197.2.135:1935/colive/C011_HD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - sân khấu
+http://112.197.2.135:1935/colive/C012_HD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - phụ nữ & gia ðình
+http://112.197.2.135:1935/colive/C017_HD_2/chunklist.m3u8
+#EXTINF: 0,SCTVHD - thể thao 1 
+http://112.197.2.135:1935/colive/C042_SD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - thể thao 2 
+http://112.197.2.135:1935/colive/C008_HD_4/chunklist.m3u8
+#EXTINF: 0,SCTVHD - sóng nhạc 
+http://112.197.2.135:1935/colive/C006_HD_4/chunklist.m3u8
+#EXTINF:-1,SCTV1 – Kênh Hài Chuyên Biệt
+http://112.197.2.135:1935/colive/C027_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV2 – Kênh Âm Nhạc YanTV
+http://112.197.2.135:1935/colive/C028_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV3 – Kênh Thiếu Nhi Sao TV
+http://112.197.2.135:1935/colive/C029_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV4 – Kênh Giải Trí Tổng Hợp
+http://112.197.2.135:1935/colive/C030_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV5 – Kênh Mua Sắm SCJ
+http://112.197.2.135:1935/colive/C037_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV6 – Kênh Giải Trí Tổng Hợp SNTV
+http://112.197.2.135:1935/colive/C038_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV7 – Sân Khấu Văn Nghệ Tổng Hợp
+http://112.197.2.135:1935/colive/C039_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV8 – Thông Tin Kinh Tế Thị Trường
+http://112.197.2.135:1935/colive/C040_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV9 – Kênh Phim Châu Á
+http://112.197.2.135:1935/colive/C041_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV10 – Kênh Mua Sắm Home Shopping
+http://112.197.2.135:1935/colive/C064_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV11 – Kênh Hát Trên Truyền Hình
+http://112.197.2.135:1935/colive/C066_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV12 – Kênh Du Lịch Khám Phá
+http://112.197.2.135:1935/colive/C067_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV13 – Kênh Phụ Nữ và Gia Đình
+http://112.197.2.135:1935/colive/C031_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV14 – Kênh Phim Việt
+http://112.197.2.135:1935/colive/C032_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV15 – Kênh Thể Thao
+http://112.197.2.135:1935/colive/C042_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV16 – Kênh Phim Nước Ngoài Đặc Sắc
+http://112.197.2.135:1935/colive/C033_SD_3/chunklist.m3u8
+#EXTINF:-1,SCTV17 - Phim tổng hợp
+http://112.197.2.135:1935/colive/C034_SD_3/chunklist.m3u8
+#EXTINF: 0,SCTV18 - Kênh Thể thao
+http://112.197.2.135:1935/colive/C008_HD_2/chunklist.m3u8
+#EXTINF: 0,SCTVHD - HBO 
+http://112.197.2.135:1935/mlive/C004_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF: 0,SCTVHD - STAR MOVIES 
+http://112.197.2.135:1935/mlive/C001_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-CINEMAX
+http://112.197.2.135:1935/mlive/C026_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-AXN
+http://112.197.2.135:1935/mlive/C016_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-CARTOON NETWORK
+http://112.197.2.135:1935/mlive/C013_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-DISNEY
+http://112.197.2.135:1935/mlive/C012_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-CNBC
+http://112.197.2.135:1935/mlive/C024_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-CNN
+http://112.197.2.135:1935/mlive/C023_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-BBC WORLD NEWS
+http://112.197.2.135:1935/mlive/C022_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-ANIMALPLANET
+http://112.197.2.135:1935/mlive/C017_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-STARWORLD
+http://112.197.2.135:1935/mlive/C015_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+
+#EXTINF: 0,SCTVHD - FOX SPORT 
+http://112.197.2.135:1935/mlive/C005_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-MEDIACORP
+http://112.197.2.135:1935/mlive/C025_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-FOXSPORT2
+http://112.197.2.135:1935/mlive/C020_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-FASHIONTV
+http://112.197.2.135:1935/mlive/C019_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,SCTV-CHANNEL V
+http://112.197.2.135:1935/mlive/C018_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+
+#EXTINF:-1 group-title="Kênh VTV", [COLOR lime][B]Kênh VTV[/B][/COLOR]
+http://i.imgur.com/lZOZWTa.png
+#EXTINF: 0,VTV1 S1
+http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF:-1,VTV1 S2
+http://112.197.2.135:1935/colive/C043_SD_4/chunklist.m3u8 
+#EXTINF: 0,VTV2 S1
+http://123.30.185.126/hls/vtv2.m3u8
+#EXTINF:-1,VTV2 S2
+http://112.197.2.135:1935/colive/C044_SD_4/chunklist.m3u8 
+#EXTINF: 0,VTV3
+http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1,VTV HUE
+http://112.197.2.135:1935/colive/C061_SD_4/chunklist.m3u8
+#EXTINF:-1,VTV CANTHO 1
+http://112.197.2.135:1935/colive/C063_SD_4/chunklist.m3u8  
+#EXTINF:-1,ANTV
+http://123.30.185.126/hls/antv.m3u8
+#EXTINF:-1,VOVTV
+http://123.30.185.126/hls/vov.m3u8
+
+#EXTINF:-1 group-title="Kênh nước ngoài", [COLOR lime][B]Kênh nước ngoài[/B][/COLOR]
+http://i.imgur.com/lZOZWTa.png
+#EXTINF:-1,HBO
+http://112.197.2.135:1935/mlive/C004_HD_4/playlist.m3u8?us=c8bd8023854087cbd61aa0a5e3de41d0ee4dcfaa4ff4f530923b7feca955336c8220d7e5b2993801635dfa661d13ff07-1072302
+#EXTINF:-1,Star Movies
+http://112.197.2.135:1935/mlive/C001_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,Cinemax
+http://112.197.2.135:1935/mlive/C026_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,CNN
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_250.sdp/playlist.m3u8
+#EXTINF:-1,National Geographic
+http://112.197.2.135:1935/mlive/C002_HD_3/playlist.m3u8?us=91fd1714b8bc9861c8eb9879f1f8a8f40dcf7a1d56c710c80ea052382668cfd770ff1a17050e234d07b08410a426e676-1067161
+#EXTINF:-1,Animal Planet
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1454832910.m3u8
+#EXTINF:-1,Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1,CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1,TV5
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w168311103.m3u8
