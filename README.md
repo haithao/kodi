@@ -1,1 +1,1 @@
-# test
+Thử addon KODI
