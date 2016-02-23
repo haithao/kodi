@@ -12,17 +12,17 @@ http://hlscache.fptplay.net.vn/vtvlive/bibi_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,SCTVHD - thiếu nhi (select)
 http://112.197.2.135:1935/colive/C016_HD_2/chunklist.m3u8
 #EXTINF:-1,mytv-cartoon network
-http://123.29.68.179/v2live.m3u8?c=vstv244&q=medium&deviceType=2&userId=15670&deviceId=5212&type=tv&p=0&zn=net&rkey=SZOGZchlfAaAepXm&grantor=1&pkg=pkg2&location=\
+http://stream.anluong.info/d6035575f16DNa12dd1ffff4fbec6d53aa9af142GFR6/mytv-cartoon.m3u8
 #EXTINF:-1,SCTVHD - phim nước ngoài ðặc sắc (select)
 http://112.197.2.135:1935/colive/C015_HD_2/chunklist.m3u8
 #EXTINF:-1,mytv-hbo
-http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-hbo.m3u8
+http://stream.anluong.info/d6035575f16DNa12dd1ffff4fbec6d53aa9af142GFR6/mytv-hbo.m3u8
 #EXTINF:-1,mytv-cinemax
-http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-cinemax.m3u8
+http://stream.anluong.info/d6035575f16DNa12dd1ffff4fbec6d53aa9af142GFR6/mytv-cinemax.m3u8
 #EXTINF:-1,mytv-starmovies
-http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-starmovies.m3u8
+http://stream.anluong.info/d6035575f16DNa12dd1ffff4fbec6d53aa9af142GFR6/mytv-starmovies.m3u8
 #EXTINF:-1,mytv-discovery
-http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1426/mytv-discovery.m3u8
+http://stream.anluong.info/d6035575f16DNa12dd1ffff4fbec6d53aa9af142GFR6/mytv-discovery.m3u8
 #EXTINF:-1,VTV2HD
 rtmp://123.30.238.125/live/_definst_/vtv2-high
 #EXTINF:-1,VTV6HD
