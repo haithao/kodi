@@ -1,12 +1,16 @@
 ["UCm4tFSgINIb4yGty_R2by_Q","Barbie Vietnam","channel"],
 ["UCOk55dAgB8VnMlhaTEMeX5A","Teletubbies","channel"],
+["PLmdZ3yaBIVIXbUi2XjZH-96_OS72KLHCS","Teletubbies – Brand New Series","playlist"],
 ["UCBT4QCFgFwQM5o-iMK9FOpA","Hang Phim Hoat Hinh Viet Nam","channel"],
 ["UCn2U_bVvtcFR_GcMvTAAwwg","Kenh Thieu Nhi","channel"],
-["PLmdZ3yaBIVIXbUi2XjZH-96_OS72KLHCS","Teletubbies – Brand New Series","playlist"],
+["UCQ3wvWBRWG4bAPflOOCt8zQ","Cartoon Network Vietnam","channel"],
+["cartoonnetworkapac","Cartoon Network Asia","user"],
+
 ["PLol8KhGJaoakNn-I__pIzXckJs0dIlcNp","BE XUAN MAI","playlist"],
 ["PLol8KhGJaoamGqQkTRhKe35G5iABzpT0p","CHAU LEN BA - XUAN MAI","playlist"],
 ["PLol8KhGJaoam_RAQh1ist_fVtwHjJWwZl","CHU ECH CON  - XUAN MAI","playlist"],
 ["PLol8KhGJaoamQPW35vjjEliJpcx_i3ckz","Be Xuan Mai va em trai","playlist"],
+
 ["PLccwJRCUOfjOQs1xwTr8dVDv6NkzW3FbN","di choi Vinpearl","playlist"],
 ["PLccwJRCUOfjOCuegHp3kGMQ48sGBUtbbp","mimi_home","playlist"],
 ["PLccwJRCUOfjPD6iSMsvF2UIP0taEhILe6","Nha tho Ho Dang","playlist"],
