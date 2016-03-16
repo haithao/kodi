@@ -15,10 +15,18 @@ http://112.197.2.135:1935/colive/C016_HD_2/chunklist.m3u8
 http://112.197.2.135:1935/colive/C015_HD_2/chunklist.m3u8
 #EXTINF:-1,VTV2HD
 rtmp://123.30.238.125/live/_definst_/vtv2-high
+#EXTINF: 0,VTV1 S1
+http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF:-1,VTV1 S2
+http://112.197.2.135:1935/colive/C043_SD_4/chunklist.m3u8 
+#EXTINF: 0,VTV2 S1
+http://123.30.185.126/hls/vtv2.m3u8
+#EXTINF:-1,VTV2 S2
+http://112.197.2.135:1935/colive/C044_SD_4/chunklist.m3u8 
+#EXTINF: 0,VTV3
+http://123.30.185.126/hls/vtv3.m3u8
 #EXTINF:-1,VTV6HD
 rtmp://123.30.238.125/live/_definst_/vtv6-high
-#EXTINF:-1,VTV7HD
-rtmp://123.30.238.125/live/_definst_/vtv7-high
 
 #EXTINF:-1,HBO-HD
 http://112.197.2.135:1935/mlive/C004_HD_4/playlist.m3u8?us=c8bd8023854087cbd61aa0a5e3de41d0ee4dcfaa4ff4f530923b7feca955336c8220d7e5b2993801635dfa661d13ff07-1072302
@@ -160,16 +168,8 @@ http://112.197.2.135:1935/mlive/C018_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac22
 
 #EXTINF:-1 group-title="Kênh VTV", [COLOR lime][B]Kênh VTV[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
-#EXTINF: 0,VTV1 S1
-http://123.30.185.126/hls/vtv1.m3u8
-#EXTINF:-1,VTV1 S2
-http://112.197.2.135:1935/colive/C043_SD_4/chunklist.m3u8 
-#EXTINF: 0,VTV2 S1
-http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1,VTV2 S2
-http://112.197.2.135:1935/colive/C044_SD_4/chunklist.m3u8 
-#EXTINF: 0,VTV3
-http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:-1,VTV7HD
+rtmp://123.30.238.125/live/_definst_/vtv7-high
 #EXTINF:-1,VTV HUE
 http://112.197.2.135:1935/colive/C061_SD_4/chunklist.m3u8
 #EXTINF:-1,VTV CANTHO 1
