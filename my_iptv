@@ -35,7 +35,7 @@ http://112.197.2.135:1935/mlive/C001_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac22
 #EXTINF:-1,Cinemax-SD
 http://112.197.2.135:1935/mlive/C026_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
 
-#EXTINF:-1 group-title="Kênh hay xem", [COLOR lime][B]Kênh VTVCab[/B][/COLOR]
+#EXTINF:-1 group-title="Kênh VTVCab", [COLOR lime][B]Kênh VTVCab[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
 #EXTINF:-1,ThethaoTV
 http://hlscache.fptplay.net.vn/vtvlive/thethaotvsd_hls.smil/chunklist_b1200000.m3u8
