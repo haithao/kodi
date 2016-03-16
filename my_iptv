@@ -3,16 +3,26 @@
 http://i.imgur.com/lZOZWTa.png
 #EXTINF:-1,SCTV8 – Thông Tin Kinh Tế Thị Trường (select)
 http://112.197.2.135:1935/colive/C040_SD_3/chunklist.m3u8
-#EXTINF:-1,VTV1HD
-rtmp://123.30.238.125/live/_definst_/vtv1-high
-#EXTINF:-1,VTV3HD
-rtmp://123.30.238.125/live/_definst_/vtv3-high
 #EXTINF:-1,VTVcab8 - Kênh BIBI
 http://hlscache.fptplay.net.vn/vtvlive/bibi_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,SCTVHD - thiếu nhi (select)
 http://112.197.2.135:1935/colive/C016_HD_2/chunklist.m3u8
+
 #EXTINF:-1,SCTVHD - phim nước ngoài ðặc sắc (select)
 http://112.197.2.135:1935/colive/C015_HD_2/chunklist.m3u8
+#EXTINF:-1,HBO-HD
+http://112.197.2.135:1935/mlive/C004_HD_4/playlist.m3u8?us=c8bd8023854087cbd61aa0a5e3de41d0ee4dcfaa4ff4f530923b7feca955336c8220d7e5b2993801635dfa661d13ff07-1072302
+#EXTINF:-1,Star Movies-HD
+http://112.197.2.135:1935/mlive/C001_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,Cinemax-SD
+http://112.197.2.135:1935/mlive/C026_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+
+#EXTINF:-1 group-title="Kênh VTV", [COLOR lime][B]Kênh VTV[/B][/COLOR]
+http://i.imgur.com/lZOZWTa.png
+#EXTINF:-1,VTV1HD
+rtmp://123.30.238.125/live/_definst_/vtv1-high
+#EXTINF:-1,VTV3HD
+rtmp://123.30.238.125/live/_definst_/vtv3-high
 #EXTINF:-1,VTV2HD
 rtmp://123.30.238.125/live/_definst_/vtv2-high
 #EXTINF: 0,VTV1 S1
@@ -27,13 +37,17 @@ http://112.197.2.135:1935/colive/C044_SD_4/chunklist.m3u8
 http://123.30.185.126/hls/vtv3.m3u8
 #EXTINF:-1,VTV6HD
 rtmp://123.30.238.125/live/_definst_/vtv6-high
+#EXTINF:-1,VTV7HD
+rtmp://123.30.238.125/live/_definst_/vtv7-high
 
-#EXTINF:-1,HBO-HD
-http://112.197.2.135:1935/mlive/C004_HD_4/playlist.m3u8?us=c8bd8023854087cbd61aa0a5e3de41d0ee4dcfaa4ff4f530923b7feca955336c8220d7e5b2993801635dfa661d13ff07-1072302
-#EXTINF:-1,Star Movies-HD
-http://112.197.2.135:1935/mlive/C001_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
-#EXTINF:-1,Cinemax-SD
-http://112.197.2.135:1935/mlive/C026_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
+#EXTINF:-1,VTV HUE
+http://112.197.2.135:1935/colive/C061_SD_4/chunklist.m3u8
+#EXTINF:-1,VTV CANTHO 1
+http://112.197.2.135:1935/colive/C063_SD_4/chunklist.m3u8  
+#EXTINF:-1,ANTV
+http://123.30.185.126/hls/antv.m3u8
+#EXTINF:-1,VOVTV
+http://123.30.185.126/hls/vov.m3u8
 
 #EXTINF:-1 group-title="Kênh VTVCab", [COLOR lime][B]Kênh VTVCab[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
@@ -165,19 +179,6 @@ http://112.197.2.135:1935/mlive/C020_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac22
 http://112.197.2.135:1935/mlive/C019_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
 #EXTINF:-1,SCTV-CHANNEL V
 http://112.197.2.135:1935/mlive/C018_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
-
-#EXTINF:-1 group-title="Kênh VTV", [COLOR lime][B]Kênh VTV[/B][/COLOR]
-http://i.imgur.com/lZOZWTa.png
-#EXTINF:-1,VTV7HD
-rtmp://123.30.238.125/live/_definst_/vtv7-high
-#EXTINF:-1,VTV HUE
-http://112.197.2.135:1935/colive/C061_SD_4/chunklist.m3u8
-#EXTINF:-1,VTV CANTHO 1
-http://112.197.2.135:1935/colive/C063_SD_4/chunklist.m3u8  
-#EXTINF:-1,ANTV
-http://123.30.185.126/hls/antv.m3u8
-#EXTINF:-1,VOVTV
-http://123.30.185.126/hls/vov.m3u8
 
 #EXTINF:-1 group-title="Kênh nước ngoài", [COLOR lime][B]Kênh nước ngoài[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
