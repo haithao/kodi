@@ -3,6 +3,11 @@
 http://i.imgur.com/lZOZWTa.png
 #EXTINF:-1,SCTV8 – Thông Tin Kinh Tế Thị Trường (select)
 http://112.197.2.135:1935/colive/C040_SD_3/chunklist.m3u8
+#EXTINF: 0,VTV1 S1
+http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF:-1,VTV1 S2
+http://112.197.2.135:1935/colive/C043_SD_4/chunklist.m3u8 
+
 #EXTINF:-1,VTVcab8 - Kênh BIBI
 http://hlscache.fptplay.net.vn/vtvlive/bibi_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,SCTVHD - thiếu nhi (select)
@@ -25,10 +30,6 @@ rtmp://123.30.238.125/live/_definst_/vtv1-high
 rtmp://123.30.238.125/live/_definst_/vtv3-high
 #EXTINF:-1,VTV2HD
 rtmp://123.30.238.125/live/_definst_/vtv2-high
-#EXTINF: 0,VTV1 S1
-http://123.30.185.126/hls/vtv1.m3u8
-#EXTINF:-1,VTV1 S2
-http://112.197.2.135:1935/colive/C043_SD_4/chunklist.m3u8 
 #EXTINF: 0,VTV2 S1
 http://123.30.185.126/hls/vtv2.m3u8
 #EXTINF:-1,VTV2 S2
