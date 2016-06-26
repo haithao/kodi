@@ -1,73 +1,40 @@
 #EXTM3U
 #EXTINF:-1 group-title="Kênh hay xem", [COLOR lime][B]Kênh hay xem[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
-#EXTINF: 0,VTV1 S1
-http://123.30.185.126/hls/vtv1.m3u8
+#EXTINF: 0,VTV1
+http://222.255.27.46/vtv1.m3u8?token=9c68d36898
+#EXTINF: 0,VTV1 - 2
+http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=4D0Kx3pHXws1vMCpPmIqzg&time=1466984348&gcId=1532&userId=&deviceId=1256&deviceType=1&location=NA&requestTime=1466897948394&pkg=pkg1
+#EXTINF: 0,VTV3
+http://222.255.27.46/vtv3.m3u8?token=9c68d36898
+#EXTINF: 0,VTV6
+http://222.255.27.46/vtv6.m3u8?token=9c68d36898
+#EXTINF: 0,VTV6 viettel-cdn.vn
+http://vtvgoobj.89cb1039.viettel-cdn.vn/30fd5a573ace04ca4a3a43eec1d80b721466909710/live/_definst_/vtv6-mid.m3u8
+#EXTINF: 0,VTV6 sabai.vn
+http://vtvgoobj.04477775.sabai.vn/30fd5a573ace04ca4a3a43eec1d80b721466909710/live/_definst_/vtv6-mid.m3u8
+#EXTINF: 0,VTV7
+http://222.255.27.46/vtv7.m3u8?token=9c68d36898
 #EXTINF:-1,SCTV8 – Thông Tin Kinh Tế Thị Trường (select)
 http://112.197.2.135:1935/colive/C040_SD_3/chunklist.m3u8
+#EXTINF: 0,CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b700000.m3u8
+#EXTINF: 0,STARMOVIE
+http://live.vn-hd.com/c84fee07c3f8df19434af5f24a40a887/spsklfl/starmovies.720p.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Kênh VTV", [COLOR lime][B]Kênh VTV[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
-#EXTINF:-1,VTV1HD
-rtmp://123.30.238.125/live/_definst_/vtv1-high
-#EXTINF:-1,VTV3HD
-rtmp://123.30.238.125/live/_definst_/vtv3-high
-#EXTINF:-1,VTV2HD
-rtmp://123.30.238.125/live/_definst_/vtv2-high
 #EXTINF: 0,VTV2 S1
 http://123.30.185.126/hls/vtv2.m3u8
 #EXTINF:-1,VTV2 S2
 http://112.197.2.135:1935/colive/C044_SD_4/chunklist.m3u8 
-#EXTINF: 0,VTV3
-http://123.30.185.126/hls/vtv3.m3u8
 #EXTINF:-1,VTV6HD
 rtmp://123.30.238.125/live/_definst_/vtv6-high
 #EXTINF:-1,VTV7HD
 rtmp://123.30.238.125/live/_definst_/vtv7-high
 
-#EXTINF:-1,VTV HUE
-http://112.197.2.135:1935/colive/C061_SD_4/chunklist.m3u8
-#EXTINF:-1,VTV CANTHO 1
-http://112.197.2.135:1935/colive/C063_SD_4/chunklist.m3u8  
-#EXTINF:-1,ANTV
-http://123.30.185.126/hls/antv.m3u8
-#EXTINF:-1,VOVTV
-http://123.30.185.126/hls/vov.m3u8
-
-#EXTINF:-1 group-title="Kênh VTVCab", [COLOR lime][B]Kênh VTVCab[/B][/COLOR]
-http://i.imgur.com/lZOZWTa.png
-#EXTINF:-1,ThethaoTV
-http://hlscache.fptplay.net.vn/vtvlive/thethaotvsd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,BongdaTV
-http://hlscache.fptplay.net.vn/vtvlive/bongdatvsd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,VTVcab8 - Bi Bi
-http://hlscache.fptplay.net.vn/vtvlive/bibi_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,VTVcab9 - Info TV
-http://hlscache.fptplay.net.vn/vtvlive/infotv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,VTVcab10 - O2 TV
-http://hlscache.fptplay.net.vn/vtvlive/o2tv_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,VTVcab12 - Style TV
-http://hlscache.fptplay.net.vn/vtvlive/styletv_hls.smil/chunklist_b1200000.m3u8
-
-#EXTINF: 0,SCTVHD - FOX SPORT 
-http://112.197.2.135:1935/mlive/C005_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
-#EXTINF:-1,SCTV-MEDIACORP
-http://112.197.2.135:1935/mlive/C025_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
-#EXTINF:-1,SCTV-FOXSPORT2
-http://112.197.2.135:1935/mlive/C020_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
-#EXTINF:-1,SCTV-FASHIONTV
-http://112.197.2.135:1935/mlive/C019_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
-#EXTINF:-1,SCTV-CHANNEL V
-http://112.197.2.135:1935/mlive/C018_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
-
 #EXTINF:-1 group-title="Kênh nước ngoài", [COLOR lime][B]Kênh nước ngoài[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
-#EXTINF:-1,HBO
-http://112.197.2.135:1935/mlive/C004_HD_4/playlist.m3u8?us=c8bd8023854087cbd61aa0a5e3de41d0ee4dcfaa4ff4f530923b7feca955336c8220d7e5b2993801635dfa661d13ff07-1072302
-#EXTINF:-1,Star Movies
-http://112.197.2.135:1935/mlive/C001_HD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
-#EXTINF:-1,Cinemax
-http://112.197.2.135:1935/mlive/C026_SD_4/chunklist.m3u8?us=7c0be7f35a949d55ac2249e1d6c7670036a3e98c0678f36f5a53b370e2dd22f493695e5f0860fcfd5f0c82405fcb14ec-717732
 #EXTINF:-1,CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_250.sdp/playlist.m3u8
 #EXTINF:-1,National Geographic
@@ -80,3 +47,5 @@ http://tv.life.ru/lifetv/720p/index.m3u8
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 #EXTINF:-1,TV5
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w168311103.m3u8
+#EXTINF:-1,bloomberg
+http://btvus-i.akamaihd.net/hls/live/204059-b/Live/M700.m3u8
