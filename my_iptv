@@ -5,21 +5,23 @@ http://i.imgur.com/lZOZWTa.png
 http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=4D0Kx3pHXws1vMCpPmIqzg&time=1466984348&gcId=1532&userId=&deviceId=1256&deviceType=1&location=NA&requestTime=1466897948394&pkg=pkg1
 #EXTINF: 0,VTV1-(viettel-cdn.vn)
 http://vtvgoobj.89cb1039.viettel-cdn.vn/e5496a1e198d2f9e2d8f6c91b37fab4c1466940298/live/_definst_/vtv1-mid.m3u8
-#EXTINF: 0,VTV1(2)
+#EXTINF: 0,VTV1(token)
 http://222.255.27.46/vtv1.m3u8?token=9c68d36898
+#EXTINF: 0,VTV1(3)
+http://s2.vtvplus.vn/live/_definst_/vtv1_hd-high.m3u8?t=79eff9afce46e3ff3a2f33703eedc461&e=1466955795
 #EXTINF: 0,VTV3
 http://222.255.27.46/vtv3.m3u8?token=9c68d36898
-#EXTINF: 0,VTV3(2)
+#EXTINF: 0,VTV3(token)
 http://live.vn-hd.com/c84fee07c3f8df19434af5f24a40a887/spsklfl/vtv3.720p.stream/chunklist.m3u8
 #EXTINF: 0,VTV3(sabai.vn)
 http://vtvgoobj.04477775.sabai.vn/1fcacbe39b27d9cefe25377b4753f3e11466940979/live/_definst_/vtv3-mid.m3u8
-#EXTINF: 0,VTV6
+#EXTINF: 0,VTV6(token)
 http://222.255.27.46/vtv6.m3u8?token=9c68d36898
 #EXTINF: 0,VTV6 viettel-cdn.vn
 http://vtvgoobj.89cb1039.viettel-cdn.vn/30fd5a573ace04ca4a3a43eec1d80b721466909710/live/_definst_/vtv6-mid.m3u8
 #EXTINF: 0,VTV6 sabai.vn
 http://vtvgoobj.04477775.sabai.vn/30fd5a573ace04ca4a3a43eec1d80b721466909710/live/_definst_/vtv6-mid.m3u8
-#EXTINF: 0,VTV7
+#EXTINF: 0,VTV7(token)
 http://222.255.27.46/vtv7.m3u8?token=9c68d36898
 #EXTINF:-1,SCTV8 – Thông Tin Kinh Tế Thị Trường (select)
 http://112.197.2.135:1935/colive/C040_SD_3/chunklist.m3u8
