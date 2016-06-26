@@ -9,6 +9,10 @@ http://vtvgoobj.89cb1039.viettel-cdn.vn/e5496a1e198d2f9e2d8f6c91b37fab4c14669402
 http://222.255.27.46/vtv1.m3u8?token=9c68d36898
 #EXTINF: 0,VTV3
 http://222.255.27.46/vtv3.m3u8?token=9c68d36898
+#EXTINF: 0,VTV3(2)
+http://live.vn-hd.com/c84fee07c3f8df19434af5f24a40a887/spsklfl/vtv3.720p.stream/chunklist.m3u8
+#EXTINF: 0,VTV3(sabai.vn)
+http://vtvgoobj.04477775.sabai.vn/1fcacbe39b27d9cefe25377b4753f3e11466940979/live/_definst_/vtv3-mid.m3u8
 #EXTINF: 0,VTV6
 http://222.255.27.46/vtv6.m3u8?token=9c68d36898
 #EXTINF: 0,VTV6 viettel-cdn.vn
