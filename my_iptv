@@ -2,9 +2,11 @@
 #EXTINF:-1 group-title="Kênh hay xem", [COLOR lime][B]Kênh hay xem[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
 #EXTINF: 0,VTV1
-http://222.255.27.46/vtv1.m3u8?token=9c68d36898
-#EXTINF: 0,VTV1-(2)
 http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=4D0Kx3pHXws1vMCpPmIqzg&time=1466984348&gcId=1532&userId=&deviceId=1256&deviceType=1&location=NA&requestTime=1466897948394&pkg=pkg1
+#EXTINF: 0,VTV1-(viettel-cdn.vn)
+http://vtvgoobj.89cb1039.viettel-cdn.vn/e5496a1e198d2f9e2d8f6c91b37fab4c1466940298/live/_definst_/vtv1-mid.m3u8
+#EXTINF: 0,VTV1(2)
+http://222.255.27.46/vtv1.m3u8?token=9c68d36898
 #EXTINF: 0,VTV3
 http://222.255.27.46/vtv3.m3u8?token=9c68d36898
 #EXTINF: 0,VTV6
@@ -22,17 +24,6 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/
 #EXTINF: 0,STARMOVIE
 http://live.vn-hd.com/c84fee07c3f8df19434af5f24a40a887/spsklfl/starmovies.720p.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Kênh VTV", [COLOR lime][B]Kênh VTV[/B][/COLOR]
-http://i.imgur.com/lZOZWTa.png
-#EXTINF: 0,VTV2 S1
-http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1,VTV2 S2
-http://112.197.2.135:1935/colive/C044_SD_4/chunklist.m3u8 
-#EXTINF:-1,VTV6HD
-rtmp://123.30.238.125/live/_definst_/vtv6-high
-#EXTINF:-1,VTV7HD
-rtmp://123.30.238.125/live/_definst_/vtv7-high
-
 #EXTINF:-1 group-title="Kênh nước ngoài", [COLOR lime][B]Kênh nước ngoài[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
 #EXTINF:-1,CNN
@@ -47,5 +38,3 @@ http://tv.life.ru/lifetv/720p/index.m3u8
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 #EXTINF:-1,TV5
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w168311103.m3u8
-#EXTINF:-1,bloomberg
-http://btvus-i.akamaihd.net/hls/live/204059-b/Live/M700.m3u8
