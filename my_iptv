@@ -3,6 +3,8 @@
 http://i.imgur.com/lZOZWTa.png
 #EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
+#EXTINF: 0,VTV1 fptplay
+http://hlscache.fptplay.net.vn/livek/vtv1hd_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzEzMzA1NywgInRva2VuIjogImNkOTFjNzJkYjUwZjU0Y2E0MDZhNWU3NmE4MzliYjQyIiwgInNlcnZlcl90aW1lIjogMTQ2NzA0NjY1NywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djFoZF9obHMifQ%3D%3D
 #EXTINF: 0,VTV1
 http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=4D0Kx3pHXws1vMCpPmIqzg&time=1466984348&gcId=1532&userId=&deviceId=1256&deviceType=1&location=NA&requestTime=1466897948394&pkg=pkg1
 #EXTINF: 0,VTV1-(viettel-cdn.vn)
