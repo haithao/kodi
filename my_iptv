@@ -10,7 +10,7 @@ http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=4D0Kx3pHXws1vMCpP
 #EXTINF: 0,VTV1-(viettel-cdn.vn)
 http://vtvgoobj.89cb1039.viettel-cdn.vn/e5496a1e198d2f9e2d8f6c91b37fab4c1466940298/live/_definst_/vtv1-mid.m3u8
 #EXTINF: 0,VTV1(token)
-http://222.255.27.89/vtv1.m3u8
+http://222.255.27.89/vtv1.m3u8?token=6505ba236c
 #EXTINF: 0,VTV1(3)
 http://s2.vtvplus.vn/live/_definst_/vtv1_hd-high.m3u8?t=79eff9afce46e3ff3a2f33703eedc461&e=1466955795
 #EXTINF: 0,VTV3
