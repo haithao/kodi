@@ -1,28 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kênh hay xem", [COLOR lime][B]Kênh hay xem[/B][/COLOR]
+#EXTINF:-1 group-title="Kênh nước ngoài", [COLOR lime][B]Kênh nước ngoài[/B][/COLOR]
 http://i.imgur.com/lZOZWTa.png
-#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
+#EXTINF:-1,VTV1 HD
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
-#EXTINF: 0,VTV1
-http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=4D0Kx3pHXws1vMCpPmIqzg&time=1466984348&gcId=1532&userId=&deviceId=1256&deviceType=1&location=NA&requestTime=1466897948394&pkg=pkg1
-#EXTINF:-1,SCTV8 – Thông Tin Kinh Tế Thị Trường (select)
-http://112.197.2.135:1935/colive/C040_SD_3/chunklist.m3u8
 #EXTINF: 0,CARTOON NETWORK
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b700000.m3u8
 #EXTINF: 0,STARMOVIE
 http://live.vn-hd.com/c84fee07c3f8df19434af5f24a40a887/spsklfl/starmovies.720p.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Kênh nước ngoài", [COLOR lime][B]Kênh nước ngoài[/B][/COLOR]
-http://i.imgur.com/lZOZWTa.png
-#EXTINF:-1,CNN
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_250.sdp/playlist.m3u8
-#EXTINF:-1,National Geographic
-http://112.197.2.135:1935/mlive/C002_HD_3/playlist.m3u8?us=91fd1714b8bc9861c8eb9879f1f8a8f40dcf7a1d56c710c80ea052382668cfd770ff1a17050e234d07b08410a426e676-1067161
-#EXTINF:-1,Animal Planet
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1454832910.m3u8
-#EXTINF:-1,Life News
-http://tv.life.ru/lifetv/720p/index.m3u8
-#EXTINF:-1,CBS TV
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:-1,TV5
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w168311103.m3u8
