@@ -3,8 +3,6 @@
 http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="me",VTV2
 http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="me",VTV6
-http://27.67.50.69:18080/39_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="me",VITV
 rtmp://14.160.54.166/livepkgr/livestream
 #EXTINF:-1 group-title="me",CARTOON NETWORK
