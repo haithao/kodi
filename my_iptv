@@ -1,11 +1,111 @@
 #EXTM3U
-#EXTINF:-1 group-title="me",VTV1
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="me",VTV2
-http://live.cdn.mobifonetv.vn/motv3/vtv2hd_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="me",VITV
-rtmp://14.160.54.166/livepkgr/livestream
-#EXTINF:-1 group-title="me",CARTOON NETWORK
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b700000.m3u8
-#EXTINF:-1 group-title="me",STARMOVIE
-http://live.vn-hd.com/c84fee07c3f8df19434af5f24a40a887/spsklfl/starmovies.720p.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU: NICK TOONS" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU: NICK TOONS
+http://mybox.plus:80/hisham/123456/43434
+#EXTINF:-1 tvg-id="" tvg-name="AU:NICK JR TOO" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:NICK JR TOO
+http://mybox.plus:80/hisham/123456/43433
+#EXTINF:-1 tvg-id="" tvg-name="AU:Nickelodeon" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:Nickelodeon
+http://mybox.plus:80/hisham/123456/43424
+#EXTINF:-1 tvg-id="" tvg-name="AU:Nick Jr" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:Nick Jr
+http://mybox.plus:80/hisham/123456/43428
+#EXTINF:-1 tvg-id="" tvg-name="AU:Disney Junior" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:Disney Junior
+http://mybox.plus:80/hisham/123456/43426
+#EXTINF:-1 tvg-id="" tvg-name="AU:Disney Channel" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:Disney Channel
+http://mybox.plus:80/hisham/123456/43425
+#EXTINF:-1 tvg-id="" tvg-name="AU:Cartoon Network" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:Cartoon Network
+http://mybox.plus:80/hisham/123456/43429
+#EXTINF:-1 tvg-id="" tvg-name="AU:Cbeebies" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:Cbeebies
+http://mybox.plus:80/hisham/123456/43431
+#EXTINF:-1 tvg-id="" tvg-name="AU:Disney XD" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:Disney XD
+http://mybox.plus:80/hisham/123456/43427
+#EXTINF:-1 tvg-id="" tvg-name="AU:Nick HD" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:Nick HD
+http://mybox.plus:80/hisham/123456/43430
+#EXTINF:-1 tvg-id="" tvg-name="AU:NICK TOONS" tvg-logo="" group-title="ENGLISHKIDS☆كرتون",AU:NICK TOONS
+http://mybox.plus:80/hisham/123456/43432
+#EXTINF:-1 tvg-id="" tvg-name="AU_: beIN Sports 1" tvg-logo="" group-title="LOCAL TV ",AU_: beIN Sports 1
+http://mybox.plus:80/hisham/123456/132529
+#EXTINF:-1 tvg-id="" tvg-name="AU_: beIN Sports 2" tvg-logo="" group-title="LOCAL TV ",AU_: beIN Sports 2
+http://mybox.plus:80/hisham/123456/132530
+#EXTINF:-1 tvg-id="" tvg-name="AU_: beIN Sports 3" tvg-logo="" group-title="LOCAL TV ",AU_: beIN Sports 3
+http://mybox.plus:80/hisham/123456/132531
+#EXTINF:-1 tvg-id="sbsworldmovies.au" tvg-name="World Movies" tvg-logo="" group-title="LOCAL TV ",World Movies
+http://mybox.plus:80/hisham/123456/46566
+#EXTINF:-1 tvg-id="" tvg-name="On Demand Thriller Movies" tvg-logo="" group-title="LOCAL TV ",On Demand Thriller Movies
+http://mybox.plus:80/hisham/123456/51251
+#EXTINF:-1 tvg-id="tcmplus1.uk" tvg-name="Lifetime Movie Network HD" tvg-logo="" group-title="LOCAL TV ",Lifetime Movie Network HD
+http://mybox.plus:80/hisham/123456/46561
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="Movies & Mysteries" tvg-logo="" group-title="LOCAL TV ",Movies & Mysteries
+http://mybox.plus:80/hisham/123456/46562
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="LOCAL TV ",SyFy
+http://mybox.plus:80/hisham/123456/56323
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="LOCAL TV ",A&E
+http://mybox.plus:80/hisham/123456/46570
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! ENTERTAINMENT HD" tvg-logo="" group-title="LOCAL TV ",E! ENTERTAINMENT HD
+http://mybox.plus:80/hisham/123456/46572
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="LOCAL TV ",NAT GEO WILD HD
+http://mybox.plus:80/hisham/123456/46571
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-logo="" group-title="LOCAL TV ",Fox Sports News
+http://mybox.plus:80/hisham/123456/46599
+#EXTINF:-1 tvg-id="foxsports504hd.au" tvg-name="AFL TV 24/7" tvg-logo="" group-title="LOCAL TV ",AFL TV 24/7
+http://mybox.plus:80/hisham/123456/46574
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="NRL TV 24/7" tvg-logo="" group-title="LOCAL TV ",NRL TV 24/7
+http://mybox.plus:80/hisham/123456/46575
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="Fox Sports 501" tvg-logo="" group-title="LOCAL TV ",Fox Sports 501
+http://mybox.plus:80/hisham/123456/46576
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="Fox Sports 502" tvg-logo="" group-title="LOCAL TV ",Fox Sports 502
+http://mybox.plus:80/hisham/123456/46577
+#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="Fox Sports 503" tvg-logo="" group-title="LOCAL TV ",Fox Sports 503
+http://mybox.plus:80/hisham/123456/46578
+#EXTINF:-1 tvg-id="foxsports504hd.au" tvg-name="Fox Sports 504" tvg-logo="" group-title="LOCAL TV ",Fox Sports 504
+http://mybox.plus:80/hisham/123456/46579
+#EXTINF:-1 tvg-id="foxsports505hd.au" tvg-name="Fox Sports 505" tvg-logo="" group-title="LOCAL TV ",Fox Sports 505
+http://mybox.plus:80/hisham/123456/46580
+#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-name="Fox Sports 506" tvg-logo="" group-title="LOCAL TV ",Fox Sports 506
+http://mybox.plus:80/hisham/123456/46581
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 507" tvg-logo="" group-title="LOCAL TV ",Fox Sports 507
+http://mybox.plus:80/hisham/123456/46582
+#EXTINF:-1 tvg-id="beinsports2hd.au" tvg-name="SuperSport Grandstand" tvg-logo="" group-title="LOCAL TV ",SuperSport Grandstand
+http://mybox.plus:80/hisham/123456/46587
+#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="Super_sport_maximo" tvg-logo="" group-title="LOCAL TV ",Super_sport_maximo
+http://mybox.plus:80/hisham/123456/46588
+#EXTINF:-1 tvg-id="espnhd.au" tvg-name="ESPN 1 HD" tvg-logo="" group-title="LOCAL TV ",ESPN 1 HD
+http://mybox.plus:80/hisham/123456/46589
+#EXTINF:-1 tvg-id="espn2hd.au" tvg-name="ESPN 2 HD" tvg-logo="" group-title="LOCAL TV ",ESPN 2 HD
+http://mybox.plus:80/hisham/123456/46591
+#EXTINF:-1 tvg-id="" tvg-name="7 FLIX Brisbane" tvg-logo="" group-title="LOCAL TV ",7 FLIX Brisbane
+http://mybox.plus:80/hisham/123456/46620
+#EXTINF:-1 tvg-id="" tvg-name="7 FLIX Melbourne" tvg-logo="" group-title="LOCAL TV ",7 FLIX Melbourne
+http://mybox.plus:80/hisham/123456/46601
+#EXTINF:-1 tvg-id="" tvg-name="7 TWO Melbourne" tvg-logo="" group-title="LOCAL TV ",7 TWO Melbourne
+http://mybox.plus:80/hisham/123456/46604
+#EXTINF:-1 tvg-id="" tvg-name="9 GO! Melbourne" tvg-logo="" group-title="LOCAL TV ",9 GO! Melbourne
+http://mybox.plus:80/hisham/123456/46606
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 Melbourne SD" tvg-logo="" group-title="LOCAL TV ",Channel 9 Melbourne SD
+http://mybox.plus:80/hisham/123456/46610
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 Sydney SD" tvg-logo="" group-title="LOCAL TV ",Channel 9 Sydney SD
+http://mybox.plus:80/hisham/123456/46611
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV HD" tvg-logo="" group-title="LOCAL TV ",Fuel TV HD
+http://mybox.plus:80/hisham/123456/46618
+#EXTINF:-1 tvg-id="" tvg-name="Racing.com SD" tvg-logo="" group-title="LOCAL TV ",Racing.com SD
+http://mybox.plus:80/hisham/123456/46612
+#EXTINF:-1 tvg-id="" tvg-name="SKY Racing 1 HD" tvg-logo="" group-title="LOCAL TV ",SKY Racing 1 HD
+http://mybox.plus:80/hisham/123456/46616
+#EXTINF:-1 tvg-id="" tvg-name="SKY Racing 2 SD" tvg-logo="" group-title="LOCAL TV ",SKY Racing 2 SD
+http://mybox.plus:80/hisham/123456/46617
+#EXTINF:-1 tvg-id="" tvg-name="TEN Melbourne" tvg-logo="" group-title="LOCAL TV ",TEN Melbourne
+http://mybox.plus:80/hisham/123456/46615
+#EXTINF:-1 tvg-id="" tvg-name="7 Flix" tvg-logo="" group-title="LOCAL TV ",7 Flix
+http://mybox.plus:80/hisham/123456/46593
+#EXTINF:-1 tvg-id="" tvg-name="7 mate" tvg-logo="" group-title="LOCAL TV ",7 mate
+http://mybox.plus:80/hisham/123456/46592
+#EXTINF:-1 tvg-id="" tvg-name="7 Two" tvg-logo="" group-title="LOCAL TV ",7 Two
+http://mybox.plus:80/hisham/123456/46594
+#EXTINF:-1 tvg-id="" tvg-name="9 Gem" tvg-logo="" group-title="LOCAL TV ",9 Gem
+http://mybox.plus:80/hisham/123456/46595
+#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="" group-title="LOCAL TV ",SBS
+http://mybox.plus:80/hisham/123456/46596
+#EXTINF:-1 tvg-id="" tvg-name="SBS Food" tvg-logo="" group-title="COOKING☆طعام",SBS Food
+http://mybox.plus:80/hisham/123456/46598
+#EXTINF:-1 tvg-id="" tvg-name="SBS Viceland" tvg-logo="" group-title="LOCAL TV ",SBS Viceland
+http://mybox.plus:80/hisham/123456/46597
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="" group-title="LOCAL TV ",ESPN 1
+http://mybox.plus:80/hisham/123456/46590
